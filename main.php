@@ -27,7 +27,7 @@ $array = array_map('str_getcsv', $csv);
 
       <div id="center" class="jumbotron p-3 p-md-5 text-white rounded bg-dark" style="background-color: white !important; border: 4px double black;">
           <div class="col-md-12 px-0">
-            <h1 class="display-4 font-italic" align="center" style="color: red;">Европа это одна из самых прекрасных частей света</h1>
+            <h1 class="display-4 font-italic" align="center" style="color: black;">Европа это одна из самых прекрасных частей света</h1>
             <p class="lead my-3" align="center" style="color: black;">У Европы своя история и культура и сейчас,мы вам расскажем причины совершить туда поездку</p>
             <p class="lead mb-0" align="center" style="color: black;"><a href="https://www.python.org" class="text-black font-weight-bold">Ссылка на Python</a></p>
           </div>
